@@ -1,0 +1,141 @@
+.tablet-about {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 1652px;
+  min-width: 1194px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.matters-1 {
+  display: flex;
+  flex-direction: column;
+  height: 430px;
+  margin-left: 60px;
+  margin-top: 50px;
+  width: 1085px;
+}
+
+.why-this-matters-1 {
+  height: 48px;
+  letter-spacing: 0;
+  margin-left: 358px;
+  margin-top: 10px;
+  width: 369px;
+}
+
+.ask-yourself-this-h-1 {
+  height: 213px;
+  letter-spacing: 0;
+  margin-left: 10px;
+  margin-top: 35px;
+  width: 1065px;
+}
+
+.title-frame-1 {
+  background-color: var(--anakiwa);
+  display: flex;
+  height: 78px;
+  margin-left: 176px;
+  width: 853px;
+}
+
+.team {
+  height: 58px;
+  letter-spacing: 0;
+  margin-left: 362px;
+  margin-top: 10px;
+  width: 129px;
+}
+
+.christ-bio-1 {
+  display: flex;
+  height: 439px;
+  margin-left: 52px;
+  margin-top: 50px;
+  width: 1058px;
+}
+
+.unsplash5a-g-uy-cw_p-jw-2 {
+  height: 415px;
+  margin-left: 12px;
+  margin-top: 12px;
+  width: 355px;
+}
+
+.frame-10-2 {
+  display: flex;
+  flex-direction: column;
+  height: 367px;
+  margin-left: 48px;
+  margin-top: 36px;
+  width: 631px;
+}
+
+.christwide-oscar-1 {
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 56.2px;
+  margin-left: 5px;
+  margin-top: 5px;
+  text-align: center;
+  white-space: nowrap;
+  width: 621px;
+}
+
+.hey-my-name-is-chri-1 {
+  height: 285px;
+  letter-spacing: 0;
+  line-height: 28.1px;
+  margin-left: 5px;
+  margin-top: 21px;
+  width: 621px;
+}
+
+.nate-bio-1 {
+  display: flex;
+  height: 433px;
+  margin-left: 67px;
+  margin-top: 50px;
+  width: 1043px;
+}
+
+.frame-10-3 {
+  display: flex;
+  flex-direction: column;
+  height: 319px;
+  margin-left: 12px;
+  margin-top: 57px;
+  width: 616px;
+}
+
+.name-2 {
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 56.2px;
+  margin-left: 5px;
+  margin-top: 5px;
+  text-align: center;
+  white-space: nowrap;
+  width: 606px;
+}
+
+.welcome-to-kido-reso-1 {
+  height: 232px;
+  letter-spacing: 0;
+  line-height: 28.1px;
+  margin-left: 5px;
+  margin-top: 21px;
+  width: 606px;
+}
+
+.unsplash5a-g-uy-cw_p-jw-3 {
+  height: 415px;
+  margin-left: 48px;
+  margin-top: 9px;
+  width: 355px;
+}
+

@@ -1,0 +1,48 @@
+.component-1,
+.component-1-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 101px;
+  margin-left: 10px;
+  margin-top: 10px;
+  min-width: 77px;
+}
+
+.overlap-group,
+.overlap-group-1 {
+  height: 95px;
+  position: relative;
+  width: 77px;
+}
+
+.polygon-1,
+.polygon-1-1 {
+  height: 36px;
+  left: 13px;
+  position: absolute;
+  top: 59px;
+  width: 52px;
+}
+
+.ellipse-1,
+.ellipse-1-1 {
+  background-color: var(--tulip);
+  border-radius: 38.5px;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 77px;
+}
+
+.ellipse-2,
+.ellipse-2-1 {
+  background-color: var(--white);
+  border-radius: 26.5px;
+  height: 53px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 53px;
+}
+

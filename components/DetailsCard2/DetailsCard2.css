@@ -1,0 +1,53 @@
+.details-card-2 {
+  background-color: var(--white);
+  box-shadow: 4px 4px 4px #00000040;
+  display: flex;
+  height: 236px;
+  margin-left: 156px;
+  width: 642px;
+}
+
+.detail-cards-info-1 {
+  display: flex;
+  flex-direction: column;
+  height: 216px;
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 622px;
+}
+
+.cricriculm-1 {
+  height: 39px;
+  letter-spacing: 0;
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 602px;
+}
+
+.lorem-ipsum-dolor-si-2 {
+  height: 135px;
+  letter-spacing: 0;
+  margin-left: 10px;
+  margin-top: 22px;
+  width: 602px;
+}
+
+.details-card-2.details-card-3 {
+  height: 281px;
+  width: 509px;
+}
+
+.details-card-2.details-card-3 .detail-cards-info-1 {
+  height: 261px;
+  width: 489px;
+}
+
+.details-card-2.details-card-3 .cricriculm-1 {
+  width: 469px;
+}
+
+.details-card-2.details-card-3 .lorem-ipsum-dolor-si-2 {
+  height: 180px;
+  width: 469px;
+}
+

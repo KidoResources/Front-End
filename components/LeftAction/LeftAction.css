@@ -1,0 +1,79 @@
+.left-action-1,
+.left-action-2,
+.left-action-3,
+.left-action-4,
+.left-action-5,
+.left-action-6 {
+  display: flex;
+  height: 29px;
+  margin-left: 24px;
+  margin-top: 18.5px;
+  width: 256px;
+}
+
+.about-1,
+.about-2,
+.about-3,
+.about-4,
+.about-5,
+.about-6 {
+  cursor: pointer;
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 10px;
+  margin-top: 5px;
+  transition: all 0.2s ease;
+  width: 46px;
+}
+
+.about-1:hover,
+.community-1:hover,
+.discover-1:hover,
+.about-2:hover,
+.community-2:hover,
+.discover-2:hover,
+.about-3:hover,
+.community-3:hover,
+.discover-3:hover,
+.about-4:hover,
+.community-4:hover,
+.discover-4:hover,
+.about-5:hover,
+.community-5:hover,
+.discover-5:hover,
+.about-6:hover,
+.community-6:hover,
+.discover-6:hover {
+  color: #ED6A5A
+}
+
+.community-1,
+.community-2,
+.community-3,
+.community-4,
+.community-5,
+.community-6 {
+  cursor: pointer;
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 21px;
+  margin-top: 5px;
+  transition: all 0.2s ease;
+  width: 87px;
+}
+
+.discover-1,
+.discover-2,
+.discover-3,
+.discover-4,
+.discover-5,
+.discover-6 {
+  cursor: pointer;
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 21px;
+  margin-top: 5px;
+  transition: all 0.2s ease;
+  width: 66px;
+}
+

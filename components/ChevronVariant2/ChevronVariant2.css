@@ -1,0 +1,64 @@
+.chevron-variant2-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 9px;
+  margin-left: 23px;
+  margin-top: 12px;
+  min-width: 23px;
+}
+
+.line-container {
+  height: 11px;
+  margin-left: -1px;
+  margin-top: -1.0px;
+  position: relative;
+  width: 25px;
+}
+
+.line-1 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.line-2 {
+  height: 11px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.chevron-variant2-5.chevron-variant2-1 {
+  margin-left: 39px;
+}
+
+.chevron-variant2-5.chevron-variant2-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 9px;
+  margin-left: 161px;
+  margin-top: 12px;
+  min-width: 23px;
+}
+
+.chevron-variant2-5.chevron-variant2-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 9px;
+  margin-left: 88px;
+  margin-top: 12px;
+  min-width: 23px;
+}
+
+.chevron-variant2-5.chevron-variant2-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 9px;
+  margin-left: 154px;
+  margin-top: 12px;
+  min-width: 23px;
+}
+

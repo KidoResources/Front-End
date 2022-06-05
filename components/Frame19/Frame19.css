@@ -1,0 +1,28 @@
+.frame-19-1 {
+  display: flex;
+  flex-direction: column;
+  height: 777.32px;
+  margin-left: 105px;
+  margin-top: 28px;
+  position: relative;
+  width: 787px;
+}
+
+.frame-15-1 {
+  background-color: var(--terracotta);
+  border-radius: 8px;
+  display: flex;
+  height: 96px;
+  margin-left: 279px;
+  margin-top: 57px;
+  width: 229px;
+}
+
+.go-home-1 {
+  height: 29px;
+  letter-spacing: 0;
+  margin-left: 61.5px;
+  margin-top: 33.5px;
+  width: 106px;
+}
+
