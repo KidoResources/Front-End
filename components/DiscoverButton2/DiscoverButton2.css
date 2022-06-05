@@ -1,0 +1,29 @@
+.discover-button-14 {
+  background-color: var(--terracotta);
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  height: 49px;
+  margin-left: 149.5px;
+  margin-top: 7px;
+  transition: all 0.2s ease;
+  width: 167px;
+}
+
+.discover-button-14:hover {
+  transform: scale(1.1);
+}
+
+.discover-now-1 {
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 31px;
+  margin-top: 15px;
+  text-align: center;
+  width: 105px;
+}
+
+.discover-button-14.discover-button-15 {
+  margin-left: 104px;
+}
+

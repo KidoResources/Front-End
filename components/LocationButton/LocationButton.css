@@ -1,0 +1,13 @@
+.location-button {
+  display: flex;
+  height: 121px;
+  margin-left: 555px;
+  margin-top: 9px;
+  position: relative;
+  width: 97px;
+}
+
+.location-button.location-button-1 {
+  margin-left: 299px;
+}
+

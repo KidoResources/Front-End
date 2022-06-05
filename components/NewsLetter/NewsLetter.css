@@ -1,0 +1,69 @@
+.news-letter {
+  display: flex;
+  flex-direction: column;
+  height: 265px;
+  margin-left: 401px;
+  margin-top: 12px;
+  width: 489.5px;
+}
+
+.join-our-news-letter {
+  height: 39px;
+  letter-spacing: 0;
+  margin-left: 5px;
+  margin-top: 70px;
+  text-align: center;
+  width: 479.5px;
+}
+
+.nav-submit {
+  display: flex;
+  margin-left: 5px;
+  width: 479.5px;
+}
+
+.news-form {
+  display: flex;
+  width: 479.5px;
+}
+
+.email-entry {
+  background-color: var(--seashell);
+  display: flex;
+  height: 39px;
+  width: 384.5px;
+}
+
+.enter-email {
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 10px;
+  margin-top: 10px;
+  text-align: center;
+  width: 364.5px;
+}
+
+.submit-btn {
+  background-color: var(--sunglo);
+  display: flex;
+  height: 39px;
+  width: 95px;
+}
+
+.submit {
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 21px;
+  margin-top: 10px;
+  text-align: center;
+  width: 53px;
+}
+
+.news-letter.news-letter-1 {
+  margin-left: 411px;
+}
+
+.news-letter.news-letter-2 {
+  margin-left: 165px;
+}
+

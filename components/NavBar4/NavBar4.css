@@ -1,0 +1,96 @@
+.nav-bar-4 {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 66px;
+  position: relative;
+  width: 1440px;
+}
+
+.left-action-9 {
+  display: flex;
+  height: 29px;
+  margin-left: 24px;
+  margin-top: 18.5px;
+  width: 256px;
+}
+
+.about-11 {
+  cursor: pointer;
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 10px;
+  margin-top: 5px;
+  transition: all 0.2s ease;
+  width: 46px;
+}
+
+.about-11:hover,
+.community-10:hover,
+.discover-9:hover,
+.login-11:hover {
+  color: #ED6A5A
+}
+
+.community-10 {
+  cursor: pointer;
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 21px;
+  margin-top: 5px;
+  transition: all 0.2s ease;
+  width: 87px;
+}
+
+.discover-9 {
+  cursor: pointer;
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 21px;
+  margin-top: 5px;
+  transition: all 0.2s ease;
+  width: 66px;
+}
+
+.right-action-9 {
+  display: flex;
+  height: 43px;
+  margin-left: 379px;
+  margin-top: 11.5px;
+  width: 120px;
+}
+
+.frame-24-9 {
+  background-color: var(--white);
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  margin-left: -27px;
+  margin-top: 2px;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+
+.frame-24-9:hover {
+  transform: scale(1.1);
+}
+
+.sign-up-9 {
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 60px;
+}
+
+.login-11 {
+  cursor: pointer;
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 15px;
+  margin-top: 12px;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+

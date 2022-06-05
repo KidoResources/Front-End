@@ -1,0 +1,36 @@
+.home-image-button-4,
+.home-image-button-5,
+.home-image-button-6,
+.home-image-button-7,
+.home-image-button-8,
+.home-image-button-9 {
+  display: flex;
+  margin-left: 379px;
+  margin-top: 2.5px;
+  width: 179px;
+}
+
+.kido-logo-4,
+.kido-logo-5,
+.kido-logo-6,
+.kido-logo-7,
+.kido-logo-8,
+.kido-logo-9 {
+  height: 61px;
+  object-fit: cover;
+  width: 55px;
+}
+
+.kido-resources-7,
+.kido-resources-8,
+.kido-resources-9,
+.kido-resources-10,
+.kido-resources-11,
+.kido-resources-12 {
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 2px;
+  margin-top: 21px;
+  width: 122px;
+}
+
