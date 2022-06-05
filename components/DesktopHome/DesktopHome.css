@@ -1,0 +1,274 @@
+.desktop-home {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1859px;
+  position: relative;
+  width: 1440px;
+}
+
+.overlap-group-2 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 627px;
+  justify-content: flex-end;
+  min-width: 1440px;
+  padding: 129px 381px;
+}
+
+.info-header {
+  display: flex;
+  flex-direction: column;
+  height: 350px;
+  width: 630px;
+}
+
+.the-future-of-information-is-here {
+  height: 116px;
+  letter-spacing: 0;
+  text-align: center;
+}
+
+.discover-button-10 {
+  background-color: var(--terracotta);
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  height: 69px;
+  margin-left: 144px;
+  margin-top: 165px;
+  transition: all 0.2s ease;
+  width: 342px;
+}
+
+.discover-button-10:hover,
+.discover-button-11:hover {
+  transform: scale(1.1);
+}
+
+.discover-resources {
+  height: 39px;
+  letter-spacing: 0;
+  margin-left: 15px;
+  margin-top: 15px;
+  text-align: center;
+  width: 312px;
+}
+
+.colums {
+  background-color: var(--hint-of-red);
+  display: flex;
+  height: 480px;
+  width: 1440px;
+}
+
+.card-3 {
+  display: flex;
+  flex-direction: column;
+  height: 460px;
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 415.33px;
+}
+
+.power-moves-calendar,
+.croods-comments {
+  height: 222.5px;
+  margin-left: -0.1px;
+  width: 415.33px;
+}
+
+.card-text {
+  display: flex;
+  flex-direction: column;
+  height: 222.5px;
+  margin-top: 15px;
+}
+
+.weekly-updates {
+  height: 39px;
+  letter-spacing: 0;
+  margin-left: 84.7px;
+  text-align: center;
+  width: 246px;
+}
+
+.each-update-consists {
+  height: 138.5px;
+  letter-spacing: 0;
+  margin-top: 30px;
+  text-align: center;
+  width: 415.33px;
+}
+
+.card-2 {
+  display: flex;
+  flex-direction: column;
+  height: 460px;
+  margin-left: 87.0px;
+  margin-top: 10px;
+  width: 415.33px;
+}
+
+.allura-teamwork {
+  height: 222.5px;
+  margin-left: -0.3px;
+  width: 415.33px;
+}
+
+.growth-and-care {
+  height: 39px;
+  letter-spacing: 0;
+  margin-left: 77.2px;
+  text-align: center;
+  width: 261px;
+}
+
+.community-9 {
+  height: 39px;
+  letter-spacing: 0;
+  margin-left: 121.2px;
+  text-align: center;
+  width: 173px;
+}
+
+.frame-26 {
+  background-color: var(--hint-of-red);
+  display: flex;
+  width: 1440px;
+}
+
+.discover-text {
+  display: flex;
+  height: 332px;
+  margin-left: 254px;
+  width: 466px;
+}
+
+.home-inro {
+  display: flex;
+  flex-direction: column;
+  height: 219px;
+  margin-top: 56.5px;
+  width: 466px;
+}
+
+.your-story-your-way {
+  height: 39px;
+  letter-spacing: 0;
+  margin-left: 74.5px;
+  margin-top: 5px;
+  text-align: center;
+  width: 317px;
+}
+
+.our-website-enables {
+  height: 112px;
+  letter-spacing: 0;
+  margin-left: 68.5px;
+  margin-top: 7px;
+  text-align: center;
+  width: 329px;
+}
+
+.discover-button-11 {
+  background-color: var(--terracotta);
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  height: 49px;
+  margin-left: 149.5px;
+  margin-top: 7px;
+  transition: all 0.2s ease;
+  width: 167px;
+}
+
+.discover-now {
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 31px;
+  margin-top: 15px;
+  text-align: center;
+  width: 105px;
+}
+
+.happy-bunch-desk {
+  height: 332px;
+  width: 466px;
+}
+
+.footer-4 {
+  background-color: var(--hint-of-red);
+  display: flex;
+  height: 289px;
+  margin-top: 65px;
+  position: relative;
+  width: 1440px;
+}
+
+.left-nav-2 {
+  display: flex;
+  flex-direction: column;
+  height: 265px;
+  margin-left: 24px;
+  margin-top: 12px;
+  width: 491.5px;
+}
+
+.nav-links-2 {
+  display: flex;
+  flex-direction: column;
+  height: 186.87px;
+  width: 454.14px;
+}
+
+.kido-resources-6 {
+  height: 39px;
+  letter-spacing: 0;
+  margin-left: 105.1px;
+  margin-top: 4.9px;
+  text-align: center;
+  width: 244px;
+}
+
+.about-us-3 {
+  cursor: pointer;
+  height: 34px;
+  letter-spacing: 0;
+  margin-left: 166.1px;
+  margin-top: 12px;
+  text-align: center;
+  width: 122px;
+}
+
+.blog {
+  height: 34px;
+  letter-spacing: 0;
+  margin-left: 166.1px;
+  margin-top: 12px;
+  text-align: center;
+  width: 122px;
+}
+
+.place-2 {
+  cursor: pointer;
+  height: 34px;
+  letter-spacing: 0;
+  margin-left: 166.1px;
+  margin-top: 12.0px;
+  text-align: center;
+  width: 122px;
+}
+
+.kido-resources-copywrite-2022-2 {
+  height: 20.06px;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-top: 58.1px;
+  text-align: center;
+  white-space: nowrap;
+  width: 489.5px;
+}
+

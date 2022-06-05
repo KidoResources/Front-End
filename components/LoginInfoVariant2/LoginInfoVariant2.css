@@ -1,0 +1,151 @@
+.login-info-variant2 {
+  display: flex;
+  height: 417px;
+  margin-left: 182px;
+  margin-top: 240px;
+  width: 1075px;
+}
+
+.medium_ccexpress-3 {
+  height: 412px;
+  margin-left: 5px;
+  margin-top: 5px;
+  object-fit: cover;
+  width: 445px;
+}
+
+.login-7 {
+  background-color: var(--cararra);
+  display: flex;
+  flex-direction: column;
+  height: 412px;
+  margin-top: 5px;
+  width: 625px;
+}
+
+.login-user {
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 585px;
+}
+
+.username {
+  height: 34px;
+  letter-spacing: 0;
+  line-height: 33.7px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.user-entry {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 50px;
+  margin-top: 17px;
+  width: 585px;
+}
+
+.enter-username {
+  background-color: transparent;
+  border: 0;
+  height: 34px;
+  letter-spacing: 0;
+  line-height: 33.7px;
+  margin-left: 9px;
+  margin-top: 8px;
+  padding: 0;
+  white-space: nowrap;
+  width: 567px;
+}
+
+.enter-username::placeholder,
+.enter-password::placeholder {
+  color: #4c4c4c99;
+}
+
+.login-password {
+  display: flex;
+  flex-direction: column;
+  height: 99px;
+  margin-left: 20px;
+  margin-top: 30px;
+  width: 585px;
+}
+
+.password {
+  height: 34px;
+  letter-spacing: 0;
+  line-height: 33.7px;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.password-entry {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 50px;
+  margin-top: 15px;
+  width: 585px;
+}
+
+.enter-password {
+  background-color: transparent;
+  border: 0;
+  height: 34px;
+  letter-spacing: 0;
+  line-height: 33.7px;
+  margin-left: 14px;
+  margin-top: 8px;
+  padding: 0;
+  white-space: nowrap;
+  width: 557px;
+}
+
+.login-button {
+  background-color: var(--terracotta);
+  border-radius: 8px;
+  cursor: pointer;
+  height: 54px;
+  margin-left: 242px;
+  margin-top: 30px;
+  opacity: 0;
+  transform: scale(1.1);
+  transition: all 0.2s ease;
+  width: 141px;
+}
+
+.login-button.animate-enter {
+  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+.login-button:hover {
+  transform: scale(1.1);
+}
+
+.login-8 {
+  cursor: pointer;
+  height: 34px;
+  letter-spacing: 0;
+  line-height: 33.7px;
+  margin-left: 39px;
+  margin-top: 10px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+

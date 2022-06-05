@@ -1,0 +1,59 @@
+.left-nav,
+.left-nav-1 {
+  display: flex;
+  flex-direction: column;
+  height: 265px;
+  margin-left: 24px;
+  margin-top: 12px;
+  width: 491.5px;
+}
+
+.nav-links,
+.nav-links-1 {
+  display: flex;
+  flex-direction: column;
+  height: 186.87px;
+  width: 454.14px;
+}
+
+.kido-resources-4,
+.kido-resources-5 {
+  height: 39px;
+  letter-spacing: 0;
+  margin-left: 105.1px;
+  margin-top: 4.9px;
+  text-align: center;
+  width: 244px;
+}
+
+.nav-links-item,
+.nav-links-item-1 {
+  height: 34px;
+  letter-spacing: 0;
+  margin-left: 166.1px;
+  margin-top: 12px;
+  text-align: center;
+  width: 122px;
+}
+
+.place,
+.place-1 {
+  height: 34px;
+  letter-spacing: 0;
+  margin-left: 166.1px;
+  margin-top: 12.0px;
+  text-align: center;
+  width: 122px;
+}
+
+.kido-resources-copywrite-2022,
+.kido-resources-copywrite-2022-1 {
+  height: 20.06px;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-top: 58.1px;
+  text-align: center;
+  white-space: nowrap;
+  width: 489.5px;
+}
+

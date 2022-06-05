@@ -1,0 +1,13 @@
+.cards-2 {
+  display: flex;
+  height: 415px;
+  margin-left: 9px;
+  margin-top: 5px;
+  position: relative;
+  width: 1120px;
+}
+
+.cards-2.cards-3 {
+  margin-top: 33px;
+}
+

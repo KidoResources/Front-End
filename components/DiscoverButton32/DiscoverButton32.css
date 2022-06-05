@@ -1,0 +1,29 @@
+.discover-button,
+.discover-button-1 {
+  background-color: var(--terracotta);
+  border-radius: 8px;
+  box-shadow: 4px 4px 4px #00000040;
+  cursor: pointer;
+  display: flex;
+  height: 49px;
+  margin-left: 5px;
+  margin-top: 5px;
+  transition: all 0.2s ease;
+  width: 167px;
+}
+
+.discover-button:hover,
+.discover-button-1:hover {
+  transform: scale(1.1);
+}
+
+.healthcare,
+.healthcare-1 {
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 42px;
+  margin-top: 15px;
+  text-align: center;
+  width: 83px;
+}
+

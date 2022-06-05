@@ -1,0 +1,27 @@
+.nav-bar-5 {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1361px;
+}
+
+.nav-bar-5.nav-bar-6,
+.nav-bar-5.nav-bar-7 {
+  align-self: center;
+  left: unset;
+  position: relative;
+  top: unset;
+}
+
+.nav-bar-5.nav-bar-8 {
+  align-self: center;
+  left: unset;
+  margin-left: 2px;
+  position: relative;
+  top: unset;
+}
+

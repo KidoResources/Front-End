@@ -1,0 +1,11 @@
+.tablet-community {
+  background-color: var(--white);
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  min-height: 834px;
+  min-width: 1194px;
+  position: relative;
+  width: 100%;
+}
+

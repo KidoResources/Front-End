@@ -1,0 +1,82 @@
+.right-action,
+.right-action-1,
+.right-action-2,
+.right-action-3,
+.right-action-4,
+.right-action-5,
+.right-action-6 {
+  display: flex;
+  height: 43px;
+  margin-left: 379px;
+  margin-top: 11.5px;
+  width: 120px;
+}
+
+.frame-24,
+.frame-24-1,
+.frame-24-2,
+.frame-24-3,
+.frame-24-4,
+.frame-24-5,
+.frame-24-6 {
+  background-color: var(--white);
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  margin-left: -27px;
+  margin-top: 2px;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+
+.frame-24:hover,
+.frame-24-1:hover,
+.frame-24-2:hover,
+.frame-24-3:hover,
+.frame-24-4:hover,
+.frame-24-5:hover,
+.frame-24-6:hover {
+  transform: scale(1.1);
+}
+
+.sign-up,
+.sign-up-1,
+.sign-up-2,
+.sign-up-3,
+.sign-up-4,
+.sign-up-5,
+.sign-up-6 {
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 60px;
+}
+
+.login,
+.login-1,
+.login-2,
+.login-3,
+.login-4,
+.login-5,
+.login-6 {
+  cursor: pointer;
+  height: 19px;
+  letter-spacing: 0;
+  margin-left: 15px;
+  margin-top: 12px;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.login:hover,
+.login-1:hover,
+.login-2:hover,
+.login-3:hover,
+.login-4:hover,
+.login-5:hover,
+.login-6:hover {
+  color: #ED6A5A
+}
+
